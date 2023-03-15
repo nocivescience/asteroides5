@@ -1,0 +1,13 @@
+body {
+  background-color: #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  overflow: hidden;
+}
+body canvas {
+  border: 1px solid #dcdcdc;
+  border-radius: 5px;
+  box-shadow: 0 0 5px #dcdcdc;
+}/*# sourceMappingURL=style.css.map */
